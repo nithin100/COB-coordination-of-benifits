@@ -1,0 +1,54 @@
+{
+  "peopleInfo" : {
+    "numberOfPeople" : 120000,
+    "gender" : {
+      "male" : 56817,
+      "female" : 63183
+    },
+    "ageGroup" : {
+      "ageBelow18" : 35400,
+      "age18-29" : 19532,
+      "age29-40" : 10400,
+      "age40-60" : 19262,
+      "ageOver60" : 35406
+    }
+  },
+  "membershipInfo" : {
+    "membershipType" : {
+      "groupMembership" : 110000,
+      "individualMembership" : 10000
+    },
+    "membershipsByRelation" : {
+      "totalSubscribers" : 50001,
+      "totalSpouses" : 24999,
+      "totalChildren" : 45000
+    }
+  },
+  "claimsInfo" : {
+    "totalClaims" : 120000,
+    "claimsGroupInfo" : {
+      "totalGroupClaims" : 116163,
+      "claimAmount" : 494218453.08
+    },
+    "claimsIndividualInfo" : {
+      "totalIndividualClaims" : 3837,
+      "claimAmount" : 18770440.14
+    },
+    "primaryClaimsInfo" : {
+      "totalPrimaryClaims" : 102048,
+      "primaryClaimAmount" : 419761866.26
+    },
+    "secondaryClaimsInfo" : {
+      "totalSecondaryClaims" : 8934,
+      "secondaryClaimAmount" : 46238279.41
+    },
+    "territoryClaimInfo" : {
+      "totalTerritoryClaims" : 9018,
+      "territoryClaimAmount" : 46988747.55
+    }
+  },
+  "providerInfo" : {
+    "totalProviders" : 98492,
+    "providersAmount" : 512988893.92
+  }
+}

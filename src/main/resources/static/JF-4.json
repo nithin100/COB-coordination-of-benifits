@@ -1,0 +1,40 @@
+{
+  "recoveredClaims" : [
+    {
+      "claimID" : "XC3217576",
+      "firstName" : "Alian",
+      "lastName" : "Routhom",
+      "age" : 55,
+      "gender" : "Male",
+      "memebershipID" : "927963203764-00",
+      "providerName" : "Rolfson-Huel",
+      "chargedAmount" : 6743,
+      "netChargedAmount" : 3654.20,
+      "recoverabilityReason" : "This claim's employer size is acceptable."
+    },
+    {
+      "claimID" : "RM9332257",
+      "firstName" : "Alisa",
+      "lastName" : "Fraanchyonok",
+      "age" : 53,
+      "gender" : "Male",
+      "memebershipID" : "170510314851-00",
+      "providerName" : "Sporer,Reichell and Smitham",
+      "chargedAmount" : 23244,
+      "netChargedAmount" : 16220.98,
+      "recoverabilityReason" : "Membership type being Individual."
+    },
+    {
+      "claimID" : "TD1861769",
+      "firstName" : "Base",
+      "lastName" : "Burgis",
+      "age" : 54,
+      "gender" : "Male",
+      "memebershipID" : "314889024534-00",
+      "providerName" : "Dietrich,Barton and O'Connell",
+      "chargedAmount" : 5289,
+      "netChargedAmount" : 2138.08,
+      "recoverabilityReason" : "This claim's line date is within the stopped working event dates range."
+    }
+  ]
+}

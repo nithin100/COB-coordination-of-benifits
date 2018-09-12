@@ -1,0 +1,28 @@
+{
+  "totalNonRecoverableClaims" : 98905,
+  "totalRecoverableClaims" : [1285, {
+    "totalGroupClaims" : [1055, {
+      "claimAmount" : 5025986.01
+    }],
+    "totalIndividualClaims" : [230, {
+      "claimAmount" : 1703777.41
+    }]
+  }],
+  "recoverabilityReason" : {
+    "reason_1" : {
+      "name1" : "Membership being Individual",
+      "totalClaims" : 396 ,
+      "claimAmount" : 2026094.07
+    },
+    "reason_2" : {
+      "name2" : "Employer's size is acceptable",
+      "totalClaims" : 506,
+      "claimAmount" : 2593719.36
+    },
+    "reason_3" : {
+      "name3" : "Line date is within the stopped working event dates range",
+      "totalClaims" : 383,
+      "claimAmount" : 2109949.99
+    }
+  }
+}
